@@ -1,4 +1,4 @@
-const apiKey = '4030928d6ff54eba817132703252402';  // Substitua com sua chave da API WeatherAPI
+const apiKey = '4030928d6ff54eba817132703252402';  // Substitui com minha chave da API WeatherAPI
 
 // Função que faz a requisição para a API e exibe os dados
 async function getWeather() {
